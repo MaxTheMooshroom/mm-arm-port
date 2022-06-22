@@ -1,18 +1,7 @@
 # Legend of Zelda: Majora's Mask (US) 1.0
 
-[![Build Status][jenkins-badge]][jenkins] [![Decompilation Progress][progress-badge]][progress] [![Contributors][contributors-badge]][contributors] [![Discord Channel][discord-badge]][discord]
-
-[jenkins]: https://jenkins.deco.mp/job/MM/job/master
-[jenkins-badge]: https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.deco.mp%2Fjob%2FMM%2Fjob%2Fmaster
-
-[progress]: https://zelda64.dev/games/mm
-[progress-badge]: https://img.shields.io/endpoint?url=https://zelda64.dev/assets/csv/progress-mm-shield.json
-
-[contributors]: https://github.com/zeldaret/mm/graphs/contributors
-[contributors-badge]: https://img.shields.io/github/contributors/zeldaret/mm
-
-[discord]: https://discord.zelda64.dev
-[discord-badge]: https://img.shields.io/discord/688807550715560050?color=%237289DA&logo=discord&logoColor=%23FFFFFF
+## Notice!!
+The Peripheral Module is an [rp2040](https://en.wikipedia.org/wiki/RP2040)-based microcontroller board being worked on privately. This is a port of MM for that board, so there's not much use for this repo for others until that board is released. 
 
 ```diff
 - WARNING! -
